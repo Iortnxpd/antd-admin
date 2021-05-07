@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb0bb2ce-3492-432e-a38f-824e9efc4308" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="proxy.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proxy.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="skin.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/skin.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/users/list.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/users/list.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1500023700397" expanded="true" signature="7:238" ph="..." />
+                <marker date="1500023700397" expanded="true" signature="383:3437" ph="{...}" />
+                <marker date="1500023700397" expanded="true" signature="389:496" ph="/*...*/" />
+                <marker date="1500023700397" expanded="true" signature="539:750" ph="{...}" />
+                <marker date="1500023700397" expanded="true" signature="564:596" ph="{...}" />
+                <marker date="1500023700397" expanded="true" signature="621:746" ph="{...}" />
+                <marker date="1500023700397" expanded="true" signature="637:739" ph="{&quot;title&quot;: '您确定要删除这条记录吗?'...}" />
+                <marker date="1500023700397" expanded="true" signature="686:731" ph="{...}" />
+                <marker date="1500023700397" expanded="true" signature="770:2099" ph="[...]" />
+                <marker date="1500023700397" expanded="true" signature="776:1687" ph="/*...*/" />
+                <marker date="1500023700397" expanded="true" signature="1692:1742" ph="{&quot;title&quot;: '用户ID'...}" />
+                <marker date="1500023700397" expanded="true" signature="1748:1803" ph="{&quot;title&quot;: '用户名'...}" />
+                <marker date="1500023700397" expanded="true" signature="1809:1863" ph="{&quot;title&quot;: '密码'...}" />
+                <marker date="1500023700397" expanded="true" signature="1869:1925" ph="{&quot;title&quot;: '时间'...}" />
+                <marker date="1500023700397" expanded="true" signature="1931:2024" ph="{&quot;title&quot;: '操作'...}" />
+                <marker date="1500023700397" expanded="true" signature="2026:2042" ph="{...}" />
+                <marker date="1500023700397" expanded="true" signature="2216:2284" ph="{&quot;page&quot;: location.query.page...}" />
+                <marker date="1500023700397" expanded="true" signature="2627:2680" ph="//..." />
+                <marker date="1500023700397" expanded="true" signature="2701:3318" ph="{...}" />
+                <marker date="1500023700397" expanded="true" signature="2881:3208" ph="/*...*/" />
+                <marker date="1500023700397" expanded="true" signature="3217:3308" ph="/*...*/" />
+                <marker date="1500023700397" expanded="true" signature="3456:3700" ph="{&quot;loading&quot;: PropTypes.bool...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modal.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/users/modal.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1499646114788" expanded="true" signature="7:102" ph="..." />
+                <marker date="1499646114788" expanded="true" signature="154:221" ph="{...}" />
+                <marker date="1499646114788" expanded="true" signature="168:185" ph="{...}" />
+                <marker date="1499646114788" expanded="true" signature="201:219" ph="{...}" />
+                <marker date="1499646114788" expanded="true" signature="238:369" ph="{&quot;visible&quot;: visible...}" />
+                <marker date="1499646114788" expanded="true" signature="300:367" ph="{&quot;getFieldDecorator&quot;: getFieldDecorator...}" />
+                <marker date="1499646114788" expanded="true" signature="374:3305" ph="{...}" />
+                <marker date="1499646114788" expanded="true" signature="399:584" ph="{...}" />
+                <marker date="1499646114788" expanded="true" signature="432:556" ph="{&quot;key&quot;: item.key...}" />
+                <marker date="1499646114788" expanded="true" signature="452:476" ph="{...}" />
+                <marker date="1499646114788" expanded="true" signature="606:754" ph="{&quot;title&quot;: `${type === 'create' ? '新建用户' : '修改用户'}`...}" />
+                <marker date="1499646114788" expanded="true" signature="891:1113" ph="{...}" />
+                <marker date="1499646114788" expanded="true" signature="918:1100" ph="{&quot;initialValue&quot;: item.name...}" />
+                <marker date="1499646114788" expanded="true" signature="976:1088" ph="[...]" />
+                <marker date="1499646114788" expanded="true" signature="992:1074" ph="{&quot;message&quot;: '姓名未填写'...}" />
+                <marker date="1499646114788" expanded="true" signature="1207:1437" ph="{...}" />
+                <marker date="1499646114788" expanded="true" signature="1238:1424" ph="{&quot;initialValue&quot;: item.nickName...}" />
+                <marker date="1499646114788" expanded="true" signature="1300:1412" ph="[...]" />
+                <marker date="1499646114788" expanded="true" signature="1316:1398" ph="{&quot;message&quot;: '昵称未填写'...}" />
+                <marker date="1499646114788" expanded="true" signature="1530:1926" ph="{...}" />
+                <marker date="1499646114788" expanded="true" signature="1559:1776" ph="{&quot;initialValue&quot;: item.isMale...}" />
+                <marker date="1499646114788" expanded="true" signature="1619:1764" ph="[...]" />
+                <marker date="1499646114788" expanded="true" signature="1635:1750" ph="{&quot;type&quot;: 'boolean'...}" />
+                <marker date="1499646114788" expanded="true" signature="2020:2297" ph="{...}" />
+                <marker date="1499646114788" expanded="true" signature="2046:2259" ph="{&quot;initialValue&quot;: item.age...}" />
+                <marker date="1499646114788" expanded="true" signature="2103:2247" ph="[...]" />
+                <marker date="1499646114788" expanded="true" signature="2119:2233" ph="{&quot;type&quot;: 'number'...}" />
+                <marker date="1499646114788" expanded="true" signature="2391:2614" ph="{...}" />
+                <marker date="1499646114788" expanded="true" signature="2419:2601" ph="{&quot;initialValue&quot;: item.phone...}" />
+                <marker date="1499646114788" expanded="true" signature="2478:2589" ph="[...]" />
+                <marker date="1499646114788" expanded="true" signature="2494:2575" ph="{&quot;message&quot;: '不能为空'...}" />
+                <marker date="1499646114788" expanded="true" signature="2708:2931" ph="{...}" />
+                <marker date="1499646114788" expanded="true" signature="2736:2918" ph="{&quot;initialValue&quot;: item.email...}" />
+                <marker date="1499646114788" expanded="true" signature="2795:2906" ph="[...]" />
+                <marker date="1499646114788" expanded="true" signature="2811:2892" ph="{&quot;message&quot;: '不能为空'...}" />
+                <marker date="1499646114788" expanded="true" signature="3025:3252" ph="{...}" />
+                <marker date="1499646114788" expanded="true" signature="3055:3239" ph="{&quot;initialValue&quot;: item.address...}" />
+                <marker date="1499646114788" expanded="true" signature="3116:3227" ph="[...]" />
+                <marker date="1499646114788" expanded="true" signature="3132:3213" ph="{&quot;message&quot;: '不能为空'...}" />
+                <marker date="1499646114788" expanded="true" signature="3325:3443" ph="{&quot;form&quot;: PropTypes.object.isRequired...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/users/search.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1499646114788" expanded="true" signature="7:133" ph="..." />
+                <marker date="1499646114788" expanded="true" signature="151:301" ph="{&quot;field&quot;: field...}" />
+                <marker date="1499646114788" expanded="true" signature="232:299" ph="{&quot;getFieldDecorator&quot;: getFieldDecorator...}" />
+                <marker date="1499646114788" expanded="true" signature="306:1122" ph="{...}" />
+                <marker date="1499646114788" expanded="true" signature="335:569" ph="{&quot;field&quot;: field...}" />
+                <marker date="1499646114788" expanded="true" signature="501:544" ph="{...}" />
+                <marker date="1499646114788" expanded="true" signature="571:600" ph="{...}" />
+                <marker date="1499646114788" expanded="true" signature="1143:1353" ph="{&quot;form&quot;: PropTypes.object.isRequired...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="antd-admin5.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="antd-admin5.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="antd-admin5.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="antd-admin5.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="D:/node" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="D:/node/node" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb0bb2ce-3492-432e-a38f-824e9efc4308" name="Default" comment="" />
+      <created>1500026019054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500026019054</updated>
+      <workItem from="1500026020486" duration="252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="252000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1499646114788" expanded="true" signature="414:549" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <folding>
+            <marker date="1499676013384" expanded="true" signature="17:932" ph="[...]" />
+            <marker date="1499676013384" expanded="true" signature="21:84" ph="{&quot;name&quot;: '仪表盘'...}" />
+            <marker date="1499676013384" expanded="true" signature="88:146" ph="{&quot;name&quot;: '用户管理'...}" />
+            <marker date="1499676013384" expanded="true" signature="150:206" ph="{&quot;name&quot;: '费用管理'...}" />
+            <marker date="1499676013384" expanded="true" signature="210:512" ph="{&quot;name&quot;: 'UI组件'...}" />
+            <marker date="1499676013384" expanded="true" signature="300:508" ph="[...]" />
+            <marker date="1499676013384" expanded="true" signature="308:360" ph="{&quot;name&quot;: 'Ico 图标'...}" />
+            <marker date="1499676013384" expanded="true" signature="368:426" ph="{&quot;name&quot;: 'Search 搜索'...}" />
+            <marker date="1499676013384" expanded="true" signature="434:502" ph="{&quot;name&quot;: 'DropOption 下拉操作'...}" />
+            <marker date="1499676013384" expanded="true" signature="516:930" ph="{&quot;name&quot;: '测试导航'...}" />
+            <marker date="1499676013384" expanded="true" signature="591:926" ph="[...]" />
+            <marker date="1499676013384" expanded="true" signature="599:658" ph="{&quot;name&quot;: '二级导航1'...}" />
+            <marker date="1499676013384" expanded="true" signature="666:920" ph="{&quot;name&quot;: '二级导航2'...}" />
+            <marker date="1499676013384" expanded="true" signature="734:912" ph="[...]" />
+            <marker date="1499676013384" expanded="true" signature="746:818" ph="{&quot;name&quot;: '三级导航1'...}" />
+            <marker date="1499676013384" expanded="true" signature="830:902" ph="{&quot;name&quot;: '三级导航2'...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/skin.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/users/list.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/users/list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1500023700397" expanded="true" signature="7:238" ph="..." />
+            <marker date="1500023700397" expanded="true" signature="383:3437" ph="{...}" />
+            <marker date="1500023700397" expanded="true" signature="389:496" ph="/*...*/" />
+            <marker date="1500023700397" expanded="true" signature="539:750" ph="{...}" />
+            <marker date="1500023700397" expanded="true" signature="564:596" ph="{...}" />
+            <marker date="1500023700397" expanded="true" signature="621:746" ph="{...}" />
+            <marker date="1500023700397" expanded="true" signature="637:739" ph="{&quot;title&quot;: '您确定要删除这条记录吗?'...}" />
+            <marker date="1500023700397" expanded="true" signature="686:731" ph="{...}" />
+            <marker date="1500023700397" expanded="true" signature="770:2099" ph="[...]" />
+            <marker date="1500023700397" expanded="true" signature="776:1687" ph="/*...*/" />
+            <marker date="1500023700397" expanded="true" signature="1692:1742" ph="{&quot;title&quot;: '用户ID'...}" />
+            <marker date="1500023700397" expanded="true" signature="1748:1803" ph="{&quot;title&quot;: '用户名'...}" />
+            <marker date="1500023700397" expanded="true" signature="1809:1863" ph="{&quot;title&quot;: '密码'...}" />
+            <marker date="1500023700397" expanded="true" signature="1869:1925" ph="{&quot;title&quot;: '时间'...}" />
+            <marker date="1500023700397" expanded="true" signature="1931:2024" ph="{&quot;title&quot;: '操作'...}" />
+            <marker date="1500023700397" expanded="true" signature="2026:2042" ph="{...}" />
+            <marker date="1500023700397" expanded="true" signature="2216:2284" ph="{&quot;page&quot;: location.query.page...}" />
+            <marker date="1500023700397" expanded="true" signature="2627:2680" ph="//..." />
+            <marker date="1500023700397" expanded="true" signature="2701:3318" ph="{...}" />
+            <marker date="1500023700397" expanded="true" signature="2881:3208" ph="/*...*/" />
+            <marker date="1500023700397" expanded="true" signature="3217:3308" ph="/*...*/" />
+            <marker date="1500023700397" expanded="true" signature="3456:3700" ph="{&quot;loading&quot;: PropTypes.bool...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/users/modal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1499646114788" expanded="true" signature="7:102" ph="..." />
+            <marker date="1499646114788" expanded="true" signature="154:221" ph="{...}" />
+            <marker date="1499646114788" expanded="true" signature="168:185" ph="{...}" />
+            <marker date="1499646114788" expanded="true" signature="201:219" ph="{...}" />
+            <marker date="1499646114788" expanded="true" signature="238:369" ph="{&quot;visible&quot;: visible...}" />
+            <marker date="1499646114788" expanded="true" signature="300:367" ph="{&quot;getFieldDecorator&quot;: getFieldDecorator...}" />
+            <marker date="1499646114788" expanded="true" signature="374:3305" ph="{...}" />
+            <marker date="1499646114788" expanded="true" signature="399:584" ph="{...}" />
+            <marker date="1499646114788" expanded="true" signature="432:556" ph="{&quot;key&quot;: item.key...}" />
+            <marker date="1499646114788" expanded="true" signature="452:476" ph="{...}" />
+            <marker date="1499646114788" expanded="true" signature="606:754" ph="{&quot;title&quot;: `${type === 'create' ? '新建用户' : '修改用户'}`...}" />
+            <marker date="1499646114788" expanded="true" signature="891:1113" ph="{...}" />
+            <marker date="1499646114788" expanded="true" signature="918:1100" ph="{&quot;initialValue&quot;: item.name...}" />
+            <marker date="1499646114788" expanded="true" signature="976:1088" ph="[...]" />
+            <marker date="1499646114788" expanded="true" signature="992:1074" ph="{&quot;message&quot;: '姓名未填写'...}" />
+            <marker date="1499646114788" expanded="true" signature="1207:1437" ph="{...}" />
+            <marker date="1499646114788" expanded="true" signature="1238:1424" ph="{&quot;initialValue&quot;: item.nickName...}" />
+            <marker date="1499646114788" expanded="true" signature="1300:1412" ph="[...]" />
+            <marker date="1499646114788" expanded="true" signature="1316:1398" ph="{&quot;message&quot;: '昵称未填写'...}" />
+            <marker date="1499646114788" expanded="true" signature="1530:1926" ph="{...}" />
+            <marker date="1499646114788" expanded="true" signature="1559:1776" ph="{&quot;initialValue&quot;: item.isMale...}" />
+            <marker date="1499646114788" expanded="true" signature="1619:1764" ph="[...]" />
+            <marker date="1499646114788" expanded="true" signature="1635:1750" ph="{&quot;type&quot;: 'boolean'...}" />
+            <marker date="1499646114788" expanded="true" signature="2020:2297" ph="{...}" />
+            <marker date="1499646114788" expanded="true" signature="2046:2259" ph="{&quot;initialValue&quot;: item.age...}" />
+            <marker date="1499646114788" expanded="true" signature="2103:2247" ph="[...]" />
+            <marker date="1499646114788" expanded="true" signature="2119:2233" ph="{&quot;type&quot;: 'number'...}" />
+            <marker date="1499646114788" expanded="true" signature="2391:2614" ph="{...}" />
+            <marker date="1499646114788" expanded="true" signature="2419:2601" ph="{&quot;initialValue&quot;: item.phone...}" />
+            <marker date="1499646114788" expanded="true" signature="2478:2589" ph="[...]" />
+            <marker date="1499646114788" expanded="true" signature="2494:2575" ph="{&quot;message&quot;: '不能为空'...}" />
+            <marker date="1499646114788" expanded="true" signature="2708:2931" ph="{...}" />
+            <marker date="1499646114788" expanded="true" signature="2736:2918" ph="{&quot;initialValue&quot;: item.email...}" />
+            <marker date="1499646114788" expanded="true" signature="2795:2906" ph="[...]" />
+            <marker date="1499646114788" expanded="true" signature="2811:2892" ph="{&quot;message&quot;: '不能为空'...}" />
+            <marker date="1499646114788" expanded="true" signature="3025:3252" ph="{...}" />
+            <marker date="1499646114788" expanded="true" signature="3055:3239" ph="{&quot;initialValue&quot;: item.address...}" />
+            <marker date="1499646114788" expanded="true" signature="3116:3227" ph="[...]" />
+            <marker date="1499646114788" expanded="true" signature="3132:3213" ph="{&quot;message&quot;: '不能为空'...}" />
+            <marker date="1499646114788" expanded="true" signature="3325:3443" ph="{&quot;form&quot;: PropTypes.object.isRequired...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/users/search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1499646114788" expanded="true" signature="7:133" ph="..." />
+            <marker date="1499646114788" expanded="true" signature="151:301" ph="{&quot;field&quot;: field...}" />
+            <marker date="1499646114788" expanded="true" signature="232:299" ph="{&quot;getFieldDecorator&quot;: getFieldDecorator...}" />
+            <marker date="1499646114788" expanded="true" signature="306:1122" ph="{...}" />
+            <marker date="1499646114788" expanded="true" signature="335:569" ph="{&quot;field&quot;: field...}" />
+            <marker date="1499646114788" expanded="true" signature="501:544" ph="{...}" />
+            <marker date="1499646114788" expanded="true" signature="571:600" ph="{...}" />
+            <marker date="1499646114788" expanded="true" signature="1143:1353" ph="{&quot;form&quot;: PropTypes.object.isRequired...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
